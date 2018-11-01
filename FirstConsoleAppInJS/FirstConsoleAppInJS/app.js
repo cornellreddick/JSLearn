@@ -1,18 +1,25 @@
 'use strict';
 
 
-let medal = 'first place';
+//let medal = 'first place';
 
-switch (medal) {
-    case 'first place':
-        console.log('The champ');
-        break;
-    case 'second place':
-        console.log('You all most made it!');
-        break;
-    case 'third place':
-        console.log('You suck!')
-        break;
+//switch (medal) {
+//    case 'first place':
+//        console.log('The champ');
+//        break;
+//    case 'second place':
+//        console.log('You all most made it!');
+//        break;
+//    case 'third place':
+//        console.log('You suck!')
+//        break;
    
+//}
+
+function getAreaOfTriangle(base,height) {
+
+    let results = base * height / 2
+    return results;
 }
-//
+
+console.log(getAreaOfTriangle(8,2));
