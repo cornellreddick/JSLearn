@@ -1,0 +1,9 @@
+{
+  "name": "first-console-app-in-js",
+  "version": "0.0.0",
+  "description": "FirstConsoleAppInJS",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
