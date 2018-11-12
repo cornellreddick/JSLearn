@@ -7,9 +7,14 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "FirstConsoleAppInJS", "Firs
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E4736C9E-8C87-4BF4-9240-5C6DC9ED53C9}"
 	ProjectSection(SolutionItems) = preProject
+		carousel.css = carousel.css
+		carousel.js = carousel.js
+		ChooseRightIterator.js = ChooseRightIterator.js
 		Demo.html = Demo.html
+		HTML.html = HTML.html
 		..\..\..\..\Documents\jquery.js = ..\..\..\..\Documents\jquery.js
 		Practice.js = Practice.js
+		StyleSheet.css = StyleSheet.css
 	EndProjectSection
 EndProject
 Global
