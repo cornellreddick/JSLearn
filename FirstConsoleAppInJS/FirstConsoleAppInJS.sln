@@ -28,8 +28,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Content", "Content", "{9FD9
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Script", "Script", "{D0214F1E-CD70-475B-86B3-14E0F48A940C}"
 	ProjectSection(SolutionItems) = preProject
+		BoothStrap.js = BoothStrap.js
+		GetBoothStrap.js = GetBoothStrap.js
 		Home.js = Home.js
 		..\..\..\..\Documents\jquery.js = ..\..\..\..\Documents\jquery.js
+		Vender.js = Vender.js
 	EndProjectSection
 EndProject
 Global
